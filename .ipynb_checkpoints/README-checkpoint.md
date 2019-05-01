@@ -1,7 +1,11 @@
 # Feedly ML Project
 
-## Requirements
+## Getting started
 
 ```
 !pip install -r './Requirements.txt'
 ```
+
+## Comments
+
+I documented the code directly in the jupyter
