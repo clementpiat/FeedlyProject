@@ -7,4 +7,4 @@ See [Feedly.ipynb](https://github.com/clementpiat/FeedlyProject/blob/master/Feed
 
 ## Comments
 
-I documented the code directly in the jupyter notebook.
+I documented the code directly in the notebook.
