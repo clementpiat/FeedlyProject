@@ -3,7 +3,7 @@
 ## Getting started
 
 I did everything in a jupyter notebook. 
-See [Feedly.ipynb] (https://github.com/clementpiat/FeedlyProject/blob/master/Feedly.ipynb)
+See [Feedly.ipynb](https://github.com/clementpiat/FeedlyProject/blob/master/Feedly.ipynb)
 
 ## Comments
 
