@@ -1,3 +1,5 @@
 *.csv
 *.gz
 *.vectors
+.gitignore
+.ipynb_checkpoints
